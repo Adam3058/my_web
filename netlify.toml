@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+# Optionally set Node version here, e.g. "18" if you need a specific Node release
+# NODE_VERSION = "18"
